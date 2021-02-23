@@ -16,8 +16,11 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript)
 ![ABAP](https://img.shields.io/badge/Code-ABAP-informational?style=flat&logo=SAP)
 
-
-[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=joshianiket22&count_private=true&show_icons=true)](https://github.com/joshianiket22)
+<p>
+  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+</p>
 
 <!--
 **joshianiket22/joshianiket22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
