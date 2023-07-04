@@ -16,10 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript)
 ![ABAP](https://img.shields.io/badge/Code-ABAP-informational?style=flat&logo=SAP)
 
-<p>
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p>
-
 <!--
 **joshianiket22/joshianiket22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
